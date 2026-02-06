@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simulación del efecto de las Puertas Fronterizas en Yurgenschmidt
 
 Modelo numérico para estimar qué atributo (dios/color) domina en un
@@ -116,3 +117,7 @@ Obtener los límites de influencia cuando resolver analíticamente las
 igualdades entre funciones se vuelve complejo.\
 La simulación aproxima las fronteras entre atributos mediante muestreo
 masivo.
+=======
+# calculo_simulacion_devodadores_honzuki
+Modelo numérico para estimar qué atributo (dios/color) domina en un devorador
+>>>>>>> 6c86a648ca0346504fdd8670a3952370526a75d6
